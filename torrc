@@ -1,0 +1,149 @@
+## Tor will look for this file in various places based on your platform:
+## https://www.torproject.org/docs/faq#torrc
+IPv6Exit 1
+#
+ExcludeExitNodes {ua}
+ControlPort 0.0.0.0:9051
+
+SocksPort 0.0.0.0:9050
+SocksPort 0.0.0.0:9055
+SocksPort 0.0.0.0:9056
+SocksPort 0.0.0.0:9057
+SocksPort 0.0.0.0:9058
+SocksPort 0.0.0.0:9059
+SocksPort 0.0.0.0:9060
+SocksPort 0.0.0.0:9061
+SocksPort 0.0.0.0:9062
+SocksPort 0.0.0.0:9063
+SocksPort 0.0.0.0:9064
+SocksPort 0.0.0.0:9065
+SocksPort 0.0.0.0:9066
+SocksPort 0.0.0.0:9067
+SocksPort 0.0.0.0:9068
+SocksPort 0.0.0.0:9069
+SocksPort 0.0.0.0:9070
+SocksPort 0.0.0.0:9071
+SocksPort 0.0.0.0:9072
+SocksPort 0.0.0.0:9073
+SocksPort 0.0.0.0:9074
+SocksPort 0.0.0.0:9075
+SocksPort 0.0.0.0:9076
+SocksPort 0.0.0.0:9077
+SocksPort 0.0.0.0:9078
+SocksPort 0.0.0.0:9079
+SocksPort 0.0.0.0:9080
+SocksPort 0.0.0.0:9081
+SocksPort 0.0.0.0:9082
+SocksPort 0.0.0.0:9083
+SocksPort 0.0.0.0:9084
+SocksPort 0.0.0.0:9085
+SocksPort 0.0.0.0:9086
+SocksPort 0.0.0.0:9087
+SocksPort 0.0.0.0:9088
+SocksPort 0.0.0.0:9089
+SocksPort 0.0.0.0:9090
+SocksPort 0.0.0.0:9091
+SocksPort 0.0.0.0:9092
+SocksPort 0.0.0.0:9093
+SocksPort 0.0.0.0:9094
+SocksPort 0.0.0.0:9095
+SocksPort 0.0.0.0:9096
+SocksPort 0.0.0.0:9097
+SocksPort 0.0.0.0:9098
+SocksPort 0.0.0.0:9099
+SocksPort 0.0.0.0:9100
+## SocksPort 9101
+## SocksPort 9102
+## SocksPort 9103
+## SocksPort 9104
+## SocksPort 9105
+## SocksPort 9106
+## SocksPort 9107
+## SocksPort 9108
+## SocksPort 9109
+## SocksPort 9110
+## SocksPort 9111
+## SocksPort 9112
+## SocksPort 9113
+## SocksPort 9114
+## SocksPort 9115
+## SocksPort 9116
+## SocksPort 9117
+## SocksPort 9118
+## SocksPort 9119
+## SocksPort 9120
+## SocksPort 9121
+## SocksPort 9122
+## SocksPort 9123
+## SocksPort 9124
+## SocksPort 9125
+## SocksPort 9126
+## SocksPort 9127
+## SocksPort 9128
+## SocksPort 9129
+## SocksPort 9130
+## SocksPort 9131
+## SocksPort 9132
+## SocksPort 9133
+## SocksPort 9134
+## SocksPort 9135
+## SocksPort 9136
+## SocksPort 9137
+## SocksPort 9138
+## SocksPort 9139
+## SocksPort 9140
+## SocksPort 9141
+## SocksPort 9142
+## SocksPort 9143
+## SocksPort 9144
+## SocksPort 9145
+## SocksPort 9146
+## SocksPort 9147
+## SocksPort 9148
+## SocksPort 9149
+## SocksPort 9150
+## SocksPort 9151
+## SocksPort 9152
+## SocksPort 9153
+## SocksPort 9154
+## SocksPort 9155
+## SocksPort 9156
+## SocksPort 9157
+## SocksPort 9158
+## SocksPort 9159
+## SocksPort 9160
+## SocksPort 9161
+## SocksPort 9162
+## SocksPort 9163
+## SocksPort 9164
+## SocksPort 9165
+## SocksPort 9166
+## SocksPort 9167
+## SocksPort 9168
+## SocksPort 9169
+## SocksPort 9170
+## SocksPort 9171
+## SocksPort 9172
+## SocksPort 9173
+## SocksPort 9174
+## SocksPort 9175
+## SocksPort 9176
+## SocksPort 9177
+## SocksPort 9178
+## SocksPort 9179
+## SocksPort 9180
+## SocksPort 9181
+## SocksPort 9182
+## SocksPort 9183
+## SocksPort 9184
+## SocksPort 9185
+## SocksPort 9186
+## SocksPort 9187
+## SocksPort 9188
+## SocksPort 9189
+## SocksPort 9190
+## SocksPort 9191
+## SocksPort 9192
+## SocksPort 9193
+## SocksPort 9194
+## SocksPort 9195
